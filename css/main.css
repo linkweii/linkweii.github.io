@@ -123,3 +123,81 @@ padding-top: 15px;
 	margin-top: 43px;
 	padding-left: 500px;
 }
+
+.h2e {
+	font-size: 16px;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: Arial;
+	padding-top: 40px;
+	margin:0 auto;
+	padding-left: 400px;
+}
+
+
+.pe {
+	padding-top: 44px;
+
+}
+
+h3 {
+	font-family: Arial;
+	font-size: 18px;
+	text-transform: uppercase;
+	text-decoration: none;
+	margin-left: 500px;
+	text-align: center;
+	padding-top: 44px;
+}
+
+.cena {
+	margin: 0 auto;
+	padding-left: 220px;
+	font-size: 16px;
+	font-style: Arial;
+
+}
+
+.summa {
+	margin: 0 auto;
+	padding-left: 220px;
+	font-size: 24px;
+	color: red;
+	text-transform: uppercase;
+
+}
+
+.skidka {
+	margin: 0 auto;
+	padding-left: 220px;
+	font-size: 16px;
+	font-style: Arial;
+}
+
+.skdkazena {
+	margin: 0 auto;
+	padding-left: 220px;
+	font-size: 24px;
+	color: #58b5d2;
+	text-transform: uppercase;
+}
+
+.opisanie {
+	color: #b0abab;
+	margin: 0 auto;
+	padding-left: 220px;
+	font-size: 16px;
+	font-style: Arial;
+}
+
+hr {
+ margin-right: 200px;
+}
+
+.leko {
+float: right;
+font-size: 16px;
+color: #b0abab;
+padding-left: 570px;
+text-align: left;
+}
