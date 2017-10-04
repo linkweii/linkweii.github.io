@@ -1,0 +1,125 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+.cleardix:after {
+	content: '';
+	display:table;
+	width: 100%;
+	clear: both;
+}
+
+
+div{
+	box-sizing: border-box;
+}
+
+header {
+       background: url(../img/first-bg.jpg) no-repeat center top / cover;
+       height: 600px;
+}
+
+.container {
+	width: 930px;
+	margin: 0px;
+}
+
+nav {
+	float: right;
+}
+
+.menu {
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+
+.menu li{
+	float: right;
+	margin-left: 10px;
+	margin-top:24px;
+	text-transform: uppercase;
+}
+
+.menu a{
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+h1 {
+	font-size: 27px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: left;
+	margin-left: 220px;
+	margin-top: 164px;
+	font-style: Arial;
+}
+
+
+.titles_first {
+	font-size: 16px;
+	color: #fff;
+	text-align: left;
+	margin-left: 220px;
+	margin-top: 2px;
+	font-style:italic;
+}
+
+.button{
+	background: #fff568;
+	color: #242209;
+	border-radius: 2px;
+	display: block;
+	width: 255px;
+	padding: 20px 0;
+	margin: 0 auto;
+	text-align: left;
+	margin-left: 220px;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+
+
+}
+
+ul {
+	list-style:none;
+}
+
+
+.title{
+padding: top 80px;
+}
+
+.title h2 {
+color: #fff;
+font-size: 18px;
+margin-top: 0px;
+padding-top: 40px;
+text-align: center;
+margin: 0 auto;
+margin-left: 500px;
+text-transform: uppercase;
+}
+
+.title p {
+color: #fff;
+font-size: 13px;
+text-align: center;
+margin-left: 500px;
+padding-top: 15px;
+}
+
+.rel {
+       background: url(../img/feer.jpeg) no-repeat center / cover;
+       height: 600px;
+       display: block;
+}
+
+.services {
+	margin: 0 auto;
+	margin-top: 43px;
+	padding-left: 500px;
+}
