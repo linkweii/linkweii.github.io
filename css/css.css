@@ -113,3 +113,22 @@ width: 100%;
 bottom: 0;
 
 }
+
+
+content label, content input {
+  display: block;
+
+}
+
+content button {
+  width: 10%;
+  padding: 10px;
+  background: #fff;
+  border: 2px solid #4CAF50;
+  margin-top: 5px;
+}
+
+content button:hover {
+  background: #4CAF50;
+  color: #fff;
+}

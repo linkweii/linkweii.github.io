@@ -27,6 +27,16 @@
            		<li><a href="#">События Матчей</a></li>	
            	  </li>           
            </ul>
+           <content>
+       	<form method="POST" action="<?php echo $_SERVER['PHP_SELF']; ?>"></form>
+       	<label for="username">Введите ваш логин</label>
+       	<input type="text" name="username">
+       	<label for="password">Введите ваш пароль</label>
+       	<input type="text" name="password">
+       	<label for="email">Введите ваш email</label>
+       	<input type="text" name="email">
+       	<button name="submit">Вход</button>
+       </content>
        </div>
       <div id="news">
       <h3 id="h3">Сегодняшние новости</h3>
@@ -61,7 +71,7 @@
       </div>
       </div> 
        </header>
-
+   
        <footer>
          <div class="container">
            
