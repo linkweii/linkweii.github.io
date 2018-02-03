@@ -36,7 +36,7 @@ nav {
 	margin: auto;
 	width: 800px;
 	height: 100px;
-	justify-content;
+	justify-content: center;
 	display: flex;
 }
 
