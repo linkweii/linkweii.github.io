@@ -36,6 +36,8 @@ nav {
 	margin: auto;
 	width: 800px;
 	height: 100px;
+	justify-content;
+	display: flex;
 }
 
 .topnav{
