@@ -1,4 +1,4 @@
-/*Отступы*/
+﻿/*Отступы*/
 *{
 	margin: 0;
 	padding: 0;
@@ -15,6 +15,8 @@ li{
 
 body{
 	font-family: 'Times New Roman', sans-serif;
+	background: url(../img/first-bg.jpg) no-repeat center top / cover;
+	
 }
 
 /*logo*/
@@ -38,10 +40,10 @@ nav {
 	height: 100px;
 	display: flex;
 	justify-content: center;
+
 }
 
 .topnav{
-	background-color: #fff;
 	font-size: 14px;
 	margin-top: 40px;
 }
@@ -50,7 +52,7 @@ nav {
 	color: #000;
 	text-align: center;
 	padding: 14px 16px;
-	font-size: 15px;
+	font-size: 17px;
 }
 
 .topnav a:hover{
@@ -99,6 +101,7 @@ nav {
 	position: relative;
 	z-index: 2;
 	text-align: center;
+	
 }
 
 .main-text span {
@@ -164,4 +167,16 @@ nav {
 	color: #777777;
 	font-size: 14px;
 	line-height: 1.55em;
+}
+
+.flex {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	padding-top: 115px;
+
+}
+
+footer .container > * {
+	border: 1px solid red;
 }
