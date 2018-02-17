@@ -15,8 +15,6 @@ li{
 
 body{
 	font-family: 'Times New Roman', sans-serif;
-	background: url(../img/first-bg.jpg) no-repeat center top / cover;
-	
 }
 
 /*logo*/
@@ -80,6 +78,7 @@ nav {
 }
 
 .blog-cover{
+	background: url(../img/world.jpg);
 	background-size: cover;
 	border-radius: 5px 5px 0 0;
 	height: 15rem;
