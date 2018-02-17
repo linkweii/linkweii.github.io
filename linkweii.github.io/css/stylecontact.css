@@ -15,6 +15,7 @@ li{
 
 body{
 	font-family: 'Times New Roman', sans-serif;
+	background: url(../img/first-bg.jpg) no-repeat center top / cover;
 }
 
 /*logo*/
@@ -240,10 +241,10 @@ textarea{
 	margin-top: -4px;
 	font-weight: 300;
 }
-.button-submit:hoover{
+.button-submit:hover{
 	background-color:#fff;
 	color: #000;
-	border: 1px solid #000;
+	border: 1px solid #fff;
 }
 
 .ease{
