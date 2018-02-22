@@ -1,0 +1,27 @@
+﻿@media (max-width: 1199px) {
+	html {
+		font-size: 9px;
+	}
+
+	
+}
+}@media (max-width: 991px) {
+	html {
+		font-size: 7px;
+	}
+
+.price-tags {
+	flex-direction: column;
+}
+.price-tag {
+	width: 90%;
+	margin: 2rem auto;
+}
+	
+	.footer {
+		justify-content: center;
+	}
+	.footer-menu {
+		display: none;
+	}
+}
