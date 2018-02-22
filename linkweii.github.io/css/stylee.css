@@ -1,0 +1,23 @@
+.calc {
+	margin-top: 50px;
+	border: 7px solid #fff;
+	padding: 20px 40px;
+	color: #fff;
+}	
+#final_price {
+	font-size: 40px;
+	font-weight: 900;
+	color: #fff;
+}
+
+.calc h2 {
+	color: #fff;
+}
+
+label {
+	color: #fff;
+}
+
+.cencall {
+	color: #fff;
+}

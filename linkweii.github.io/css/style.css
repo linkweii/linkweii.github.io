@@ -60,6 +60,9 @@ nav {
 	border-bottom: 2px solid #fff;
 }
 
+.topnav .icon{
+	display: none;
+}
 /*Навы*/
 /*Адаптация под мобилу*/
 @media screen and (max-width: 768px){
